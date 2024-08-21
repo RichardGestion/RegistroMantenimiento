@@ -11,8 +11,8 @@
 }
 
 .fancy-file__fancy-file-name{
-    background: #EEE;
-    border: 1px solid #CACACA;
+   background: #0e0d0d67;
+    border: 1px solid #8bf106;
     flex: 1;
     border-radius: 4px 0 0 4px;
 }
